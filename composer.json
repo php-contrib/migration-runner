@@ -1,0 +1,27 @@
+{
+    "$schema": "https://getcomposer.org/schema.json",
+    "name": "phpolar/migration-runner",
+    "description": "Adds migration running support",
+    "type": "library",
+    "require-dev": {
+        "squizlabs/php_codesniffer": "^4"
+    },
+    "config": {
+        "sort-packages": true
+    },
+    "autoload": {
+        "psr-4": {
+            "PhpContrib\\MigrationRunner\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=8.4"
+    },
+    "license": "MIT",
+    "scripts": {
+        "ci:lint": "@lint",
+        "ci:lint-fix": "@lint-fix",
+        "lint": "phpcs",
+        "lint-fix": "phpcbf"
+    }
+}
