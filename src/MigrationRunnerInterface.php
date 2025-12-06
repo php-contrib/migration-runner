@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Phpolar\Migrations;
+namespace PhpContrib\MigrationRunner;
 
 /**
  * Adds migration running support
