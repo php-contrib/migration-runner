@@ -1,5 +1,11 @@
 # Migration Runner
 
+## 2.1.0 (2025-12-06)
+
+### Fix
+
+- **composer**: update packages
+
 ## 2.0.1 (2025-12-06)
 
 ### Fix
