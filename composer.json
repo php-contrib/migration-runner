@@ -1,6 +1,6 @@
 {
     "$schema": "https://getcomposer.org/schema.json",
-    "name": "phpolar/migration-runner",
+    "name": "php-contrib/migration-runner",
     "description": "Adds migration running support",
     "type": "library",
     "require-dev": {
