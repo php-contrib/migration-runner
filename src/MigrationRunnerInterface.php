@@ -5,7 +5,7 @@ declare(strict_types=1);
 namespace Phpolar\Migrations;
 
 /**
- * Adds support for running migrations in your application.
+ * Adds migration running support
  */
 interface MigrationRunnerInterface
 {
