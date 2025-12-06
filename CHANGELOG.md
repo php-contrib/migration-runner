@@ -1,5 +1,11 @@
 # Migration Runner
 
+## 2.0.1 (2025-12-06)
+
+### Fix
+
+- **MigrationRunnerInterface**: use correct namespace
+
 ## 2.0.0 (2025-12-06)
 
 ### Fix
