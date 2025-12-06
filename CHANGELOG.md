@@ -1,5 +1,11 @@
 # Migration Runner
 
+## 2.0.0 (2025-12-06)
+
+### Fix
+
+- use correct project organiztion
+
 ## 1.0.0 (2025-12-06)
 
 ## 0.1.0 (2025-12-06)
